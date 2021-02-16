@@ -24,8 +24,14 @@
   color: white;
 }
 
-.App-link {
+.center-align{
+
   color: #61dafb;
+ text-align: center;
+}
+.text-al{
+  
+  text-align: center;
 }
 
 @keyframes App-logo-spin {
